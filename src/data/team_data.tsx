@@ -293,6 +293,14 @@ export const teamMembers: TeamMember[] = [
     image: "https://gokuls2028.neocities.org/sgc.jpeg",
     linkedin: "https://www.linkedin.com/in/gokul-s202428/",
   },
+  {
+    name: "Akshaya A",
+    role: "Member",
+    department: "Computer Science",
+    year: "II",
+    image: "https://gokuls2028.neocities.org/Akshaya%20A.jpeg",
+    linkedin: "https://www.linkedin.com/in/akshaya-a-343731340/",
+  },
       
 
 ]
